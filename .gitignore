@@ -1,0 +1,97 @@
+# Android Studio/IntelliJ
+.idea/
+
+# Gradle
+.gradle/
+/local.properties
+/.gradle
+/build/
+
+# Signing files
+*.jks
+*.keystore
+
+# Android Studio Generated Files
+captures/
+output.json
+
+# Gradle Wrapper
+/gradle/wrapper/gradle-wrapper.properties
+
+# Compiled code
+*.class
+*.dex
+*.apk
+*.ap_*
+*.aab
+
+# Packaging files
+*.jar
+*.war
+*.ear
+
+# Proguard
+*.mapping
+*.log
+
+# Kotlin/Java specific
+*.iml
+*.hprof
+*.log
+*.idx
+*.sqlite
+*.bin
+*.lock
+*.gz
+*.zip
+*.class
+
+# Cache files
+*.cache
+*.idea/
+*.DS_Store
+
+# Test results
+/test-results/
+/test-output/
+
+# Android build folders
+build/
+/.gradle
+/local.properties
+
+# CI/CD
+.ci/
+
+# Miscellaneous
+*.log
+*.bak
+*.swp
+*.tmp
+*.orig
+
+# OS Files
+Thumbs.db
+.DS_Store
+
+# Firebase/Google Services
+google-services.json
+
+# Virtual Device files
+*.lock
+*.avd
+*.ini
+*.img
+*.qcow2
+*.kernel
+*.ramdisk
+
+# Backup files
+*.bak
+*.orig
+*.save
+
+# User-specific files
+*.env
+.env.local
+
