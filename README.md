@@ -6,6 +6,7 @@
 **Team/Solo:** Solo Project  
 
 **Repository:** [https://github.com/jbrun001/restaurantapp](https://github.com/jbrun001/restaurantapp)
+
 ---
 
 ## Description
