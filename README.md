@@ -5,7 +5,7 @@
 **Platform:** Android  
 **Team/Solo:** Solo Project  
 
-**Repository:** [https://github.com/jbrun001/APIProject](https://github.com/jbrun001/restaurantmanager)
+**Repository:** [https://github.com/jbrun001/restaurantapp](https://github.com/jbrun001/restaurantapp)
 ---
 
 ## Description
