@@ -1,7 +1,7 @@
 # Restaurant Manager 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
 
-**Timeline:** 2019  
+**Timeline:** 2022  
 **Platform:** Android  
 **Team/Solo:** Solo Project  
 
